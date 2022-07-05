@@ -1,8 +1,9 @@
 # aa_configs
-FOV: 2
-Aim Speed: 16
-Aim Distance Scale: 11
-Aim Key: Mouse4
+Settings:
+- FOV: 2
+- Aim Speed: 16
+- Aim Distance Scale: 11
+- Aim Key: Mouse4
 
 SMG/Pistol/Shotgun:
 - Aimbot is active 0-25 meters
