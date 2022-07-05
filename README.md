@@ -5,6 +5,7 @@ Settings:
 - Aim Distance Scale: 11
 - Aim Key: Mouse4
 - ESP Distance: 300 meters
+- 2D Radar: 1440p Warzone
 
 SMG/Pistol/Shotgun:
 - Aimbot is active 0-25 meters
