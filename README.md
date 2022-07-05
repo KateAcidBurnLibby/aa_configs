@@ -12,10 +12,10 @@ Keybinds:
 - F5: ESP Distance 300 meters
 - F6: ESP Distance 500 meters
 - F7: ESP Distance 800 meters
-- + (plus): Enable NoRecoil
-- - (minus): Disable NoRecoil
-- . (period): Enable Headshot Only
-- , (coma): Disable Headshot Only
+- \+ (plus): Enable NoRecoil
+- \- (minus): Disable NoRecoil
+- \. (period): Enable Headshot Only
+- \, (coma): Disable Headshot Only
 - \ (backslash): Toggle Loot ESP
 
 SMG/Pistol/Shotgun:
