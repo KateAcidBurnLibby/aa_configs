@@ -1,8 +1,8 @@
 # aa_configs
 Settings:
 - FOV: 2
-- Aim Speed: 16
-- Aim Distance Scale: 11
+- Aim Speed: 16 (very agressive)
+- Aim Distance Scale: 11 (somewhat agressive)
 - Aim Key: Mouse4
 - ESP Distance: 300 meters
 - 2D Radar: 1440p Warzone
