@@ -6,6 +6,7 @@ Settings:
 - Aim Key: Mouse4
 - ESP Distance: 300 meters
 - 2D Radar: 1440p Warzone
+- NoRecoil: Disabled by default (see keybinds)
 
 Keybinds:
 - Home: Re-load configs
