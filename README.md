@@ -1,4 +1,6 @@
 # aa_configs
+These are the settings I use for AA as of July 5th 20222. I do not suffer from server disconnects, invisible players, damage nerf, disarm, etc. I haven't gotten shadow banned or perma banned using these settings yet. I have been using for for 4 weeks at this point without issue.
+
 Settings:
 - FOV: 2
 - Aim Speed: 16 (very agressive)
