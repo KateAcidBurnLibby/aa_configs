@@ -4,6 +4,7 @@ Settings:
 - Aim Speed: 16
 - Aim Distance Scale: 11
 - Aim Key: Mouse4
+- ESP Distance: 300 meters
 
 SMG/Pistol/Shotgun:
 - Aimbot is active 0-25 meters
