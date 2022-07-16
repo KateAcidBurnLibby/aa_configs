@@ -1,17 +1,16 @@
-# aa_configs
-These are the settings I use for AA as of July 5th 20222. I do not suffer from server disconnects, invisible players, damage nerf, disarm, etc. I haven't gotten shadow banned or perma banned using these settings yet. I have been using for for 4 weeks at this point without issue.
+# Kate Kibby's AA Config Files
 
 Settings:
 - FOV: 2
 - Aim Speed: 16 (very agressive)
-- Aim Distance Scale: 11 (somewhat agressive)
+- Aim Distance Scale: 10 (somewhat agressive)
 - Aim Key: Mouse4
 - ESP Distance: 300 meters
 - 2D Radar: 1440p Warzone
 - NoRecoil: Disabled by default (see keybinds)
 
 Keybinds:
-- Home: Re-load configs
+- Home: Re-load settings/weapons/keybinds
 - F5: ESP Distance 300 meters
 - F6: ESP Distance 500 meters
 - F7: ESP Distance 800 meters
@@ -29,4 +28,4 @@ LMG/AR:
 - Aimbot is active 25-200 meters only when health is less than 98% (plates are broken)
 
 Everything Else:
-- Aimbot is disabled
+- Not defined
