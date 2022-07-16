@@ -162,7 +162,7 @@
 | Welgun | sm_wecho43 | SMG | Season 1 |
 | Armaguerra 43 | sm_aromeo43 | SMG | Season 2 |
 | H4 Blixen | sm_guniform45 | SMG | Season 3 |
-| sm_fromeo57 | Marco 5 | SMG | Season 4 |
+| Marco 5 | sm_fromeo57 | SMG | Season 4 |
 | MG42 | mg_mgolf42 | LMG |
 | DP27 | mg_dpapa27 | LMG |
 | Bren | mg_bromeo37 | LMG |
