@@ -1,6 +1,8 @@
-# Kate Kibby's AA Config Files
+# Kate Kibby Configs
 
-Settings:
+My personal config files for AA. Enjoy!
+
+## Settings
 - FOV: 2
 - Aim Speed: 16 (very agressive)
 - Aim Distance Scale: 10 (somewhat agressive)
@@ -9,7 +11,7 @@ Settings:
 - 2D Radar: 1440p Warzone
 - NoRecoil: Disabled by default (see keybinds)
 
-Keybinds:
+## Keybinds
 - Home: Re-load settings/weapons/keybinds
 - F5: ESP Distance 300 meters
 - F6: ESP Distance 500 meters
@@ -20,12 +22,25 @@ Keybinds:
 - \, (coma): Disable Headshot Only
 - \ (backslash): Toggle Loot ESP
 
-SMG/Pistol/Shotgun:
+## Weapons
+There are two weapon configs to choose from.
+
+#### weapons-near_and_far.cfg
+
+###### SMG/Pistol/Shotgun
 - Aimbot is active 0-25 meters
 
-LMG/AR:
+###### LMG/AR
 - Aimbot is active 0-25 meters
 - Aimbot is active 25-200 meters only when health is less than 98% (plates are broken)
 
-Everything Else:
+###### Everything Else
+- Not defined
+
+#### weapons-near_only.cfg
+
+###### LMG/AR/SMG/Pistol/Shotgun
+- Aimbot is active 0-25 meters
+
+###### Everything Else
 - Not defined
