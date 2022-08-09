@@ -25,7 +25,7 @@ My personal config files for AA. Enjoy!
 ## Weapons
 There are two weapon configs to choose from.
 
-#### weapons-near_and_far.cfg
+#### weapons-diff_near_and_far.cfg
 
 ###### SMG/Pistol/Shotgun
 - Aimbot is active 0-25 meters
@@ -41,6 +41,14 @@ There are two weapon configs to choose from.
 
 ###### LMG/AR/SMG/Pistol/Shotgun
 - Aimbot is active 0-25 meters
+
+###### Everything Else
+- Not defined
+
+#### weapons-same_all_ranges.cfg
+
+###### LMG/AR/SMG/Pistol/Shotgun
+- Aimbot is active 0-200 meters
 
 ###### Everything Else
 - Not defined
