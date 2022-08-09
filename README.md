@@ -23,7 +23,7 @@ My personal config files for AA. Enjoy!
 - \ (backslash): Toggle Loot ESP
 
 ## Weapons
-There are two weapon configs to choose from.
+There are three weapon configs to choose from.
 
 #### weapons-diff_near_and_far.cfg
 
