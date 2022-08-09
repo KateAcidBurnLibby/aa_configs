@@ -4,8 +4,8 @@ My personal config files for AA. Enjoy!
 
 ## Settings
 - FOV: 2
-- Aim Speed: 16 (very agressive)
-- Aim Distance Scale: 10 (somewhat agressive)
+- Aim Speed: 12 (somewhat agressive)
+- Aim Distance Scale: 12 (somewhat agressive)
 - Aim Key: Mouse4
 - ESP Distance: 300 meters
 - 2D Radar: 1440p Warzone
