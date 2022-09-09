@@ -153,6 +153,9 @@
 | KG M40 | KG M40 | AR | Season 2 |
 | Nikita AVT | ar_promeo45 | AR | Season 3 |
 | Vargo-S | **UNKNOWN** | AR | Season 4 |
+| EX1 | **UNKNOWN** | AR | Season 5 |
+| BP50 | **UNKNOWN** | AR | Season 5 |
+| Lienna 57 | **UNKNOWN** | AR | Season 5 |
 | M1928 | sm_thotel | SMG |
 | Sten | sm_stango5 | SMG |
 | MP-40 | sm_mpapa40 | SMG |
@@ -163,6 +166,7 @@
 | Armaguerra 43 | sm_aromeo43 | SMG | Season 2 |
 | H4 Blixen | sm_guniform45 | SMG | Season 3 |
 | Marco 5 | sm_fromeo57 | SMG | Season 4 |
+| RA 225 | **UNKNOWN** | SMG | Season 5 |
 | MG42 | mg_mgolf42 | LMG |
 | DP27 | mg_dpapa27 | LMG |
 | Bren | mg_bromeo37 | LMG |
@@ -186,6 +190,7 @@
 | 1911 | pi_mike1911 | Pistol |
 | Top Break | pi_wecho | Pistol |
 | Klauser | pi_luniform08 | Pistol |
+| Valois Revolver | **UNKNOWN** | Pistol | Season 5 |
 | M1 Bazooka | la_m1bravo | Launcher |
 | Panzerschreck | la_palpha | Launcher |
 | Panzerfaust | la_palpha42 | Launcher |
