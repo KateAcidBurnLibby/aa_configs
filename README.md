@@ -1,6 +1,6 @@
 # Kate Kibby Configs
 
-My personal config files for AA. Enjoy!
+My **old** personal config files for AA. I wouldn't use aimbot or no-recoil as of 7/13/2022. If AA updates aimbot, this may change. Enjoy!
 
 ## Settings
 - FOV: 2
